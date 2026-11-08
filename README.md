@@ -14,9 +14,9 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 <summary>Show available patches and supported versions</summary>
 
 <!-- PATCHES_START -->
-> **[v1.10.0](https://github.com/zeldrisho/morphe-patches/releases/tag/v1.10.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;28 patches total
+> **[v1.0.0](https://github.com/vietlxng28/zalo-morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;29 patches total
 <details>
-<summary>📦 Zalo&nbsp;&nbsp;•&nbsp;&nbsp;23 patches</summary>
+<summary>📦 Zalo&nbsp;&nbsp;•&nbsp;&nbsp;24 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -42,6 +42,7 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 | Hide Business Box | Hides Business Box from the chat list without hiding ordinary or user-initiated Official Account chats. |  |
 | Hide Media Box | Hides Media Box from the chat list without deleting its content. |  |
 | Hide chat list ads | Removes ad cards from the chat list. Server-delivered promotions and other ads may remain. |  |
+| Hide distraction tabs | Hides the Discovery (Khám phá) and Timeline (Nhật ký) tabs from the bottom navigation bar to reduce distractions. |  |
 | Keep expired media accessible | Keeps locally stored large chat media accessible after expiry. Missing files and server restrictions are unaffected. |  |
 | Prefer original photo quality | Enables original photo quality by default. Upload limits and video are unaffected. |  |
 | Remove AD_ID permission | Removes Zalo's advertising ID permissions. Messaging is unaffected. |  |
