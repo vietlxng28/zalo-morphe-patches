@@ -34,7 +34,7 @@
 - Keep Gson off the bundled runtime classpath; `patches/build.gradle.kts` provides a separate configuration for the patch-list generator.
 - Do not manually edit or commit generated `patches-list.json`, `patches-bundle.json`, or `CHANGELOG.md`.
 - Do not hand-edit the generated patch-list section between `PATCHES_START` and `PATCHES_END` in `README.md`.
-- Make development changes on `dev` with semantic commits; merge `dev` into `main` without squashing for stable releases. See `docs/releasing.md`.
+- Make development changes directly on `main` with semantic commits. See `docs/releasing.md`.
 - Use `.github/workflows/release.yml` and `.releaserc` for releases; do not create replacement release scripts or manually upload releases.
 - Keep CI to `release.yml` and `codeql.yml`; do not add other CI gates.
 - Do not force-push semantic-release commits.

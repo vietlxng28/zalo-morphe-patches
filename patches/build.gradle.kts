@@ -48,10 +48,10 @@ patches {
     about {
         name = "Zeldris Patches"
         description = "Patches for apps I like, for use with Morphe"
-        source = "git@github.com:zeldrisho/morphe-patches.git"
-        author = "Zeldris"
-        contact = "https://github.com/zeldrisho"
-        website = "https://github.com/zeldrisho/morphe-patches"
+        source = "git@github.com:vietlxng28/zalo-morphe-patches.git"
+        author = "vietlong28"
+        contact = "https://github.com/vietlxng28"
+        website = "https://github.com/vietlxng28/zalo-morphe-patches"
         license = "GPLv3"
     }
 }
